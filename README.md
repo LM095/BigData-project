@@ -26,7 +26,7 @@ Now you just have to transform the `.csv` into `df` and solve the queries of the
 
 :bulb: **Hint:** If you want check our solutions you can find them in the folder:`spark-3.0.2-bin-hadoop2.7/BigData-Project.ipynb`.
 
-If you have any doubts in the solutions proposed in the file 'RelationshipBigData_MarzariPintani.pdf' you will find all the explanations with examples (of relational algebra or simple SQL) to get to the result.
+If you have any doubts in the solutions proposed, in the file 'RelationshipBigData_MarzariPintani.pdf' you will find all the explanations with examples (of relational algebra or simple SQL) to get to the result.
 
 
 
