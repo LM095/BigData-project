@@ -24,9 +24,8 @@ at this point you will have transformed / obtained some .csv that represent thes
 
 Now you just have to transform the `.csv` into `df` and solve the queries of the document independently.
 
-:::info
 :bulb: **Hint:** If you want check our solutions you can find them in the folder:`spark-3.0.2-bin-hadoop2.7/BigData-Project.ipynb` .
-:::
+
 
 
 ## References
